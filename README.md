@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-la-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Susurros de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-la-medianoche/) |
+| **Get License** | [Request Licensing for Susurros de la medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-la-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la ciudad
+> Tengo el coche listo, mami, listos pa' volar
+> Tus ojos me dicen lo que tus labios se callan
+> Siente la química, baby, el fuego no falla
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
