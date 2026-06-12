@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros de la medianoche
+
+This log tracks the cryptographic history and versioning for the song **Susurros de la medianoche** (susurros-de-la-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:43:08.318081 | `v1` | `2c53faef81f89d8f4735e77583c2a39cb0cfcf256811fea2dbbe926f4f58e768` | `df7a84a44455c6a694af2c96528491b5ea4180f1288fb3699c7d6fea26329e3a` | `2026-06-13_susurros-de-la-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
